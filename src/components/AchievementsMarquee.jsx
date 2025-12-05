@@ -7,7 +7,6 @@ const AchievementsMarquee = () => {
     "AIR 271 · JEE Main 2024",
     "Top 1% · NSEC State Rank, MP",
     "National Merit Award · UCMAS",
-    "Inter IIT Tech · BERT from scratch",
   ];
 
   return (
